@@ -1,8 +1,27 @@
 aid: nomagic
 name: Nomagic
-description: Nomagic is a company surfaced as a portfolio company of khosla-ventures and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Nomagic builds Physical AI for end-to-end warehouse automation, using AI-powered
+  robotic arms and computer vision to automate picking, packing, sorting and other fulfillment
+  tasks across e-commerce, fashion, pharmaceutical and third-party logistics warehouses.
+  Nomagic exposes a standard Station API for systems integrators, WCS/WMS providers and
+  customers to control its robots, and a Grip AI API that adds an intelligence layer to
+  third-party robot hardware; all robot actions are recorded to the Nomagic Cloud to
+  continually improve its models. The company is backed by Khosla Ventures. Public
+  developer documentation for these APIs is not published; integration is arranged
+  directly with Nomagic.
 url: https://raw.githubusercontent.com/api-evangelist/nomagic/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://nomagic.ai/wp-content/uploads/2026/03/nomagic_Logo_Wordmark_Green.svg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +30,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Robotics
+- Warehouse Automation
+- Physical AI
+- Computer Vision
+- Logistics
+- Fulfillment
+- Artificial Intelligence
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +48,19 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://nomagic.ai/
+  url: https://nomagic.ai/
+- type: Blog
+  url: https://nomagic.ai/blogs/
+- type: Roadmap
+  url: https://nomagic.ai/ai-roadmap/
+- type: Support
+  url: https://nomagic.ai/contact-us/
+- type: PrivacyPolicy
+  url: https://nomagic.ai/privacy-policy/
+- type: DomainSecurity
+  url: security/nomagic-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
