@@ -10,6 +10,17 @@ description: Nomagic builds Physical AI for end-to-end warehouse automation, usi
   developer documentation for these APIs is not published; integration is arranged
   directly with Nomagic.
 url: https://raw.githubusercontent.com/api-evangelist/nomagic/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
