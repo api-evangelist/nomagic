@@ -47,7 +47,7 @@ tags:
 - Robotics
 - Warehouse Automation
 - Physical AI
-- Computer-Vision
+- Computer Vision
 - Logistics
 - Fulfillment
 - Artificial Intelligence
@@ -60,6 +60,7 @@ tags_raw:
 - Logistics
 - Fulfillment
 - Artificial Intelligence
+- Computer-Vision
 apis: []
 maintainers:
 - FN: Kin Lane
